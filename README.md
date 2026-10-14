@@ -49,13 +49,6 @@ I am a software engineer and systems explorer dedicated to engineering resilient
 
 ---
 
-### 📬 Connect
-
-<p align="center">
-  <a href="mailto:re-code-dev@proton.me"><img src="https://img.shields.io/badge/Email-re--code--dev%40proton.me-6D4AFF?style=flat&logo=protonmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/re-code-sh"><img src="https://img.shields.io/badge/GitHub-re--code--sh-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
 <p align="center">
   <sub><em>"Code with intention, build with resilience, respect user privacy."</em></sub>
 </p>
